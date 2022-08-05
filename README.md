@@ -1,5 +1,5 @@
 ## Project screenshot 
-![](.src/Media/ProjectScreenshot.PNG)
+![](./src/Media/ProjectScreenshot.PNG)
 
 
 # Getting Started with Create React App
